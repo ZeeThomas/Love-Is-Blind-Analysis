@@ -1,0 +1,301 @@
+contestant_id,name,season,age,gender,occupation,city,has_children 0=no
+C001,Alyson Costa,1,36,F,Pediatric Nurse Client Relations Director,Atlanta,0
+C002,Amber Pike,1,27,F,Ex-Tank Mechanic,Atlanta,0
+C003,Andy Rickert,1,30,M,Welder,Atlanta,0
+C004,Briana Holmes,1,24,F,CEO,Atlanta,0
+C005,Cameron Hamilton,1,28,M,Data Scientist,Atlanta,0
+C006,Carlton Morton,1,34,M,Social Media Marketer,Atlanta,0
+C007,Damian Powers,1,27,M,Ex-General Manager,Atlanta,0
+C008,Danielle Drouin,1,27,F,Yoga Instructor,Atlanta,0
+C009,Diamond Jack,1,28,F,Former NBA Dancer,Atlanta,0
+C010,Ebony Alexis,1,30,F,Journalist,Atlanta,0
+C011,Giannina Gibelli,1,25,F,Business Owner,Atlanta,0
+C012,India Bridgeforth,1,29,F,Project Manager,Atlanta,0
+C013,Jessica Batten,1,34,F,Regional Manager,Atlanta,0
+C014,Jon Smith,1,38,M,CEO,Atlanta,0
+C015,Kay Mitchell,1,30,F,Administrative Director,Atlanta,0
+C016,Kelly Chase,1,33,F,holistic Health & Empowerment Coach,Atlanta,0
+C017,Kenneth Smith,1,36,M,Master Barber & Shop Owner,Atlanta,0
+C018,Kenny Barnes,1,27,M,Sales,Atlanta,0
+C019,Lauren Chamblin,1,26,F,Recruiter & Account Executive,Atlanta,0
+C020,Lauren Speed,1,32,F,Content Creator,Atlanta,0
+C021,Lexie Skipper,1,26,F,Sales Manager,Atlanta,0
+C022,Lillie Williams,1,36,F,CEO,Atlanta,0
+C023,Mark Cuevas,1,24,M,Fitness Trainer,Atlanta,0
+C024,Matthew Barnett,1,27,M,Engineer,Atlanta,0
+C025,Mikey Cobb,1,31,M,Business Analyst,Atlanta,0
+C026,Rory Newbrough,1,28,M,Senior Consultant & Content Creator,Atlanta,0
+C027,Ryan Martin,1,29,M,Automative Sales,Atlanta,0
+C028,Taylor Lupton,1,31,M,Creative Director,Atlanta,0
+C029,Westley Baer,1,27,M,Sales Manager & Life Coach,Atlanta,0
+C030,Abhishek Chatterjee,2,33,M,Veterinarian/House DJ,Chicago,0
+C031,Aja Johnson,2,28,F,Paralegal,Chicago,0
+C032,Brandon McGhee,2,36,M,Insurance Broker,Chicago,0
+C033,Brian Ngo,2,32,M,Advertising Strategist,Chicago,0
+C034,Caitlin McKee,2,31,F,Medical Sales Professional,Chicago,0
+C035,Chassidy Mickale,2,34,F,Business Owner,Chicago,0
+C036,Danielle Ruhl,2,29,F,Associate Director of Marketing,Chicago,0
+C037,Deepti Vempati,2,31,F,Information Data Analyst,Chicago,0
+C038,Haseeb Hussain,2,28,M,Lawyer,Chicago,0
+C039,Hope Antoniello,2,32,F,Sales manager,Chicago,0
+C040,Iyanna McNeely,2,27,F,Program Coordinator,Chicago,0
+C041,James Miller,2,30,M,Business Strategy Consultant,Chicago,0
+C042,Jarrette Jones,2,30,M,Project Manager,Chicago,0
+C043,Jason Beaumont,2,31,M,Flight Attendant,Chicago,0
+C044,Jeremy Hartwell,2,30,M,Director/Entrepreneur,Chicago,0
+C045,Juhie Faheem,2,31,F,Clinical Therapist,Chicago,0
+C046,Julius Cacho,2,39,M,Logistics Manager,Chicago,1
+C047,Kara Williams,2,32,F,Client Service Manager,Chicago,0
+C048,Kyle Abrams,2,29,M,Glazier,Chicago,0
+C049,Mallory Zapata,2,32,F,Communications Manager,Chicago,0
+C050,Natalie Lee,2,29,F,Consulting Manager,Chicago,0
+C051,Nick Thompson,2,36,M,VP of Product Marketing,Chicago,0
+C052,Olivia Harris,2,29,F,Reruitment Partner,Chicago,0
+C053,Salvador Perez,2,31,M,Executive Assistant,Chicago,0
+C054,Shaina Hurley,2,32,F,Freelance Hairstylist,Chicago,0
+C055,Shayne Jensen,2,32,M,Realtor,Chicago,0
+C056,Shea'na Grigsby,2,36,F,Event Partnership Director,Chicago,0
+C057,Trisha Frame,2,30,F,Real Estate Broker,Chicago,0
+C058,Vito Salamone,2,33,M,Pizzeria Owner,Chicago,0
+C059,Alexa Alfia,3,29,F,Insurance Manager,Dallas,0
+C060,Amanda Peterson,3,31,F,Stylist,Dallas,0
+C061,Andrew Y. Liu,3,29,M,Consultant,Dallas,0
+C062,Anthony LaScalea,3,33,M,Attorney,Dallas,0
+C063,Ashley Randermann,3,29,F,Chiropractor/Equestrian,Dallas,0
+C064,Bartise Bowden,3,25,M,Accountant,Dallas,0
+C065,Brannigan Max,3,35,F,Critical Care,Dallas,0
+C066,Brennon Lemieux,3,32,M,Sales Manager,Dallas,0
+C067,Charita Scott,3,35,F,Makeup Artist,Dallas,0
+C068,Chelsey Jordan,3,27,F,Customer Success,Dallas,0
+C069,Cole Barnett,3,26,M,Realtor,Dallas,0
+C070,Colleen Reed,3,25,F,Ballet Dancer/ Digital PR Strategist,Dallas,0
+C071,Dakota Easley,3,29,M,Aerospace Engineer,Dallas,0
+C072,Dale Dalida,3,32,M,Cybersecurity Student,Dallas,0
+C073,DaVonté Black,3,29,M,Fitness Development Coach,Dallas,0
+C074,Jessica Gumbert,3,30,F,Senior Event Producer,Dallas,0
+C075,Julian Torres,3,34,M,Managing Director,Dallas,0
+C076,Kalekia Adams,3,31,F,ICU Nurse Practitioner,Dallas,0
+C077,Kimberlee Clarke,3,30,F,Teacher/Coach,Dallas,0
+C078,Loren Langenbeck,3,36,F,Medical Device,Dallas,0
+C079,Matt Bolton,3,27,M,VP of Aerospace Manufacturing & Co.,Dallas,0
+C080,Nancy Rodriguez,3,31,F,Speech Pathologist/Real Estate Investor,Dallas,0
+C081,Nash Buehler,3,34,M,Realtor,Dallas,0
+C082,Raven Ross,3,27,F,Pilates Instructor,Dallas,0
+C083,"Sikiru ""SK"" Alagbada",3,34,M,Data Engineer,Dallas,0
+C084,Simmer Pal Bajwa,3,27,M,Director of Marketing Technology,Dallas,0
+C085,Tony M. Taylor,3,34,M,Medical Device Sales Representative,Dallas,0
+C086,Valerie Truong,3,35,F,Dermatologist,Dallas,0
+C087,Zach Gordon,3,29,M,Chiropractic Student/ interior Quality Control Manager,Dallas,0
+C088,Zanab Jaffrey,3,31,,Flight Attendant,Dallas,0
+C089,Amber Wilder,4,34,F,Flight Attendant,Portland,0
+C090,April King,4,29,F,Sales & Marketing Coordinator,Portland,0
+C091,Ava Van Jenson,4,32,F,Communications Specialist,Portland,0
+C092,Bill,4,33,M,Real Estate Investor,Portland,0
+C093,Bliss Poureetezadi,4,33,F,Senior Program Manager,Portland,0
+C094,Brandie Bowman,4,39,F,Real Estate Broker,Portland,1
+C095,Brett Brown,4,36,M,Design Director for Nike,Portland,0
+C096,Chelsea Griffin,4,31,F,Pediatric Speech Language Pathologist,Portland,0
+C097,Chris Clemens,4,32,M,Technical Recruiter,Portland,0
+C098,Irina Solomonova,4,26,F,Business Owner,Portland,0
+C099,J. Conner Fremmerlid,4,28,M,Operations Manager,Portland,0
+C100,Jack Bonner,4,30,M,Software Sales,Portland,0
+C101,Jackelina Bonds,4,27,F,Certified Dental Assistant,Portland,0
+C102,Jimmy Forde,4,29,M,Technical Product Manager,Portland,0
+C103,Josh Demas,4,31,M,Project Engineer,Portland,0
+C104,Joshua Schultz,4,30,M,Plant Operations Director,Portland,0
+C105,Juan Johnson,4,30,M,Mortgage Loan Officer,Portland,0
+C106,Kacia Clark,4,31,F,Family Support Specialist,Portland,0
+C107,Kendra Patrick,4,33,F,Social Worker,Portland,0
+C108,Kwame Appiah,4,33,M,Sales Development Manager,Portland,0
+C109,Marshall Glaze,4,27,M,Marketing Manager,Portland,0
+C110,Micah Lussier,4,27,F,Marketing Manager,Portland,0
+C111,Molly McGrew,4,32,F,Marriage & Family Therapist,Portland,0
+C112,Monica Rodriguez,4,31,F,Elementary School Teacher,Portland,0
+C113,Paul Peden,4,29,M,Environmental Scientist,Portland,0
+C114,Quincy Sutton,4,36,M,Gym Owner & Fitness Coach,Portland,0
+C115,Ryland Longoni,4,29,M,Commercial Insurance & Real Estate,Portland,0
+C116,Tiffany Pennywell,4,37,F,Client Lead Recruiter,Portland,0
+C117,Wendi Kong,4,28,F,Aerospace Engineer,Portland,0
+C118,Zack Goytowski,4,31,M,Criminal Defense Attorney,Portland,0
+C119,Aaliyah Cosby,5,29,F,ICU Travel Nurse,Houston,0
+C120,Carter Wall,5,30,M,Construction,Houston,0
+C121,Christopher Fox,5,28,M,Project Manager for Commercial and Retail Development,Houston,0
+C122,Connor Moore,5,31,M,Geoscientist,Houston,0
+C123,Efrain Batista,5,27,M,Software Sales,Houston,0
+C124,Enoch Culliver,5,27,M,Financial Advisor,Houston,0
+C125,Erica Anthony,5,27,F,Marketing Manager,Houston,0
+C126,Ernesto Solorzano,5,32,M,Supply Chain Manager,Houston,0
+C127,Estefania Garcia,5,30,F,Teacher and Dancer,Houston,0
+C128,Izzy Zapata,5,29,M,Insurance Agent,Houston,0
+C129,James Johnson,5,24,M,Engineer,Houston,0
+C130,Jared Pierce,5,32,M,Firefighter,Houston,0
+C131,Jarred Gibson,5,34,M,University Director,Houston,0
+C132,Johnie Maraist,5,32,F,Lawyer,Houston,0
+C133,Josh Simmons,5,32,M,Sales Representative,Houston,0
+C134,Justice Currey,5,28,M,Personal Trainer,Houston,0
+C135,Linda Obi,5,30,F,Talent Acquisition Recruiter,Houston,0
+C136,Lydia Gonzalez,5,30,F,Geologist,Houston,0
+C137,Maris Prakonekham,5,30,F,HR Specialist,Houston,0
+C138,Mayra Cardenas,5,25,F,Minister,Houston,0
+C139,Miriam Amah,5,32,F,Scientist,Houston,0
+C140,Paige Tillman,5,32,F,Stylist,Houston,0
+C141,Renee Poche,5,32,F,Veterinarian,Houston,0
+C142,Robert Martinez,5,30,M,Special Education Teacher,Houston,0
+C143,Shondra,5,32,F,Flight Attendant,Houston,0
+C144,Stacy Snyder,5,33,F,Operations Manager,Houston,0
+C145,Taylor Rue,5,26,F,Teacher,Houston,0
+C146,Uche Okoroha,5,33,M,Lawyer,Houston,0
+C147,Alejandra Toro,6,27,F,Financial Consultant,Charlotte,0
+C148,Amber Smith,6,32,F,Real Estate Agent,Charlotte,0
+C149,Amber Grant,6,31,F,Medical Device Sales,Charlotte,0
+C150,Amy Cai,6,34,F,PR Director,Charlotte,0
+C151,Amy Cortés,6,28,F,E-Commerce Retail Specialist,Charlotte,0
+C152,Ariel Gomerez,6,32,M,Mortgage Broker,Charlotte,0
+C153,Ashley Wala,6,32,F,Nurse Practitioner,Charlotte,0
+C154,Austin Borders,6,27,M,Software Sales,Charlotte,0
+C155,Brittany Mills,6,24,F,Account Development Manager and Senior Client Partner,Charlotte,0
+C156,Chelsea Blackwell,6,31,F,Flight Attendant and Event Planner,Charlotte,0
+C157,Clay Gravesande,6,30,M,Tech Sales and Entrepreneur,Charlotte,0
+C158,Danette Coombs,6,33,F,Flight Attendant,Charlotte,0
+C159,Danielle Washington,6,30,F,Corporate Communications,Charlotte,0
+C160,Deion Perry,6,27,M,Software Sales,Charlotte,0
+C161,Drake Carmody,6,32,M,Video Producer,Charlotte,0
+C162,Jamal Stewart,6,32,M,Store Director,Charlotte,0
+C163,Jeramey Lutinski,6,32,M,Intralogistics,Charlotte,0
+C164,Jessica Vestal,6,28,F,Executive Assistant,Charlotte,0
+C165,Jimmy Presnell,6,27,M,Software Sales,Charlotte,0
+C166,Johnny McIntyre,6,28,M,Account Executive,Charlotte,0
+C167,Kenneth Gorham,6,26,M,Middle School Principal,Charlotte,0
+C168,Laura Dadisman,6,33,F,Business Development Manager,Charlotte,0
+C169,Mackenzie Tenold,6,24,F,Makeup Artist and IT Sales,Charlotte,0
+C170,Matthew Duliba,6,36,M,Financial Advisor,Charlotte,0
+C171,Nolan McNulty,6,31,M,Management Consultant,Charlotte,0
+C172,Sarah Bick,6,30,F,Customer Support Manager,Charlotte,0
+C173,Sunni Haralalka,6,34,F,Business Analyst,Charlotte,0
+C174,Trevor Sova,6,30,M,Account Manager,Charlotte,0
+C175,Vince Doa,6,35,M,Lawyer,Charlotte,0
+C176,Alexandra Byrd,7,32,F,Fashion Content Manager,D.C,0
+C177,Ally Dawson,7,31,F,Master esthetician,D.C,0
+C178,Ashley Adionser-Francis,7,31,F,Marketing Director,D.C,0
+C179,Ashley Walker,7,32,F,Health and wellness educator,D.C,0
+C180,Bohdan Olinares,7,35,M,Sales Manager,D.C,0
+C181,Brittany Wisniewski,7,32,F,Esthetician,D.C,0
+C182,David Romero,7,28,M,Project Manager,D.C,0
+C183,Dylan Maddox,7,30,M,Realtor and artist,D.C,0
+C184,Garrett Josemans,7,33,M,Quantum physicist,D.C,0
+C185,Hannah Jiles,7,26,F,Medical Device Sales,D.C,0
+C186,Jason Drecchio,7,30,M,Loan officer,D.C,0
+C187,Jenny Zamora,7,31,F,Account training coordinator,D.C,0
+C188,Katie Bollinger,7,35,F,Marketing manager,D.C,0
+C189,Leo Braudy,7,30,M,Art Dealer,D.C,0
+C190,Marissa George,7,32,F,Lawyer,D.C,0
+C191,Monica Davis,7,37,F,Sales executive,D.C,0
+C192,Morgan Moore,7,33,F,Sales team lead,D.C,0
+C193,Nick Dorka,7,28,M,Real Estate Agent,D.C,0
+C194,Nick Pugh,7,31,M,Commercial real estate brokerage,D.C,0
+C195,Nina Zafar,7,32,F,Journalist,D.C,0
+C196,Perry Slomnicki,7,31,M,Realtor,D.C,0
+C197,Ramses Prashad,7,34,M,Program associate at justice reform nonprofit,D.C,0
+C198,Raymond Pottebaum,7,33,M,Consultant,D.C,0
+C199,Stephen Richardson,7,33,M,Electrician,D.C,0
+C200,Tamar Smith,7,33,M,Video editor and animator,D.C,0
+C201,Tara Zafar,7,29,F,Senior marketing manager,D.C,0
+C202,Taylor Krause,7,30,F,Clean energy policy consultant,D.C,0
+C203,Tim Godbee,7,33,,Web content strategist,D.C,0
+C204,Tyler Francis,7,33,,Account Manager,D.C,1
+C205,Adam Bevis,8,33,M,Fashion Director Co-Owner,Minneapolis-St.Paul,0
+C206,Alex Brown,8,29,M,Commercial Real Estate Broker,Minneapolis-St.Paul,0
+C207,Amanda Burke,8,43,F,District Retail Manager,Minneapolis-St.Paul,0
+C208,Andrew Cole,8,27,M,Realtor,Minneapolis-St.Paul,0
+C209,Ashley Suter,8,28,F,Client Success Manager,Minneapolis-St.Paul,0
+C210,Ben Mezzenga,8,28,M,Developer,Minneapolis-St.Paul,0
+C211,Benji Smith,8,26,M,Entrepreneur/Realtor,Minneapolis-St.Paul,0
+C212,Brad Morgan,8,35,M,Dentist,Minneapolis-St.Paul,0
+C213,Brian Sumption,8,30,M,Wine Bar Owner,Minneapolis-St.Paul,0
+C214,Brittany Dodson,8,35,F,Partnership Executive,Minneapolis-St.Paul,0
+C215,Casandra Barron,8,30,F,Hairstylist,Minneapolis-St.Paul,0
+C216,Daniel Hastings,8,30,M,Sales Account Executive,Minneapolis-St.Paul,0
+C217,David Bettenburg,8,33,M,Medical Device Sales,Minneapolis-St.Paul,0
+C218,Devin Buckley,8,29,M,Youth Director Coach,Minneapolis-St.Paul,0
+C219,Hugo Orieny,8,30,M,Marketing,Minneapolis-St.Paul,0
+C220,Joey Leveille,8,35,M,Physician Associate,Minneapolis-St.Paul,0
+C221,Kylie Schuelke,8,28,F,Medical Student,Minneapolis-St.Paul,0
+C222,Lauren O'Brien,8,31,F,Educational Sales,Minneapolis-St.Paul,0
+C223,Madison Errichiello,8,28,F,Artist,Minneapolis-St.Paul,0
+C224,Mason Horacek,8,33,F,Cinematographer,Minneapolis-St.Paul,0
+C225,Meg Fink,8,31,F,Oncology Nurse,Minneapolis-St.Paul,0
+C226,Mo Ndiaye,8,35,F,Property Manager,Minneapolis-St.Paul,0
+C227,Molly Mullaney,8,30,F,Executive Assistant,Minneapolis-St.Paul,0
+C228,Monica Danús,8,28,F,Digital Marketing,Minneapolis-St.Paul,0
+C229,Sara Carton,8,29,F,Oncology Nurse,Minneapolis-St.Paul,0
+C230,Scott Sanderson,8,34,M,Project Manager,Minneapolis-St.Paul,0
+C231,Taylor Haag,8,32,F,Colonoscopy Nurse,Minneapolis-St.Paul,0
+C232,Tiera Shavone,8,34,F,Marketing Stragetist,Minneapolis-St.Paul,0
+C233,Tom Dann,8,38,M,Management Consultant,Minneapolis-St.Paul,0
+C234,Vanessa Boreland,8,31,F,Media Planner,Minneapolis-St.Paul,0
+C235,Virginia Miller,8,34,F,Healthcare Recruiter,Minneapolis-St.Paul,0
+C236,Yemi Ajagbe,8,30,M,Product Sales Manager,Minneapolis-St.Paul,0
+C237,Kalybriah Haskin,9,29,F,Social Worker,Denver,0
+C238,Edmond Harvey,9,29,M,Realtor,Denver,0
+C239,Aline Lima,9,29,F,Nurse,Denver,0
+C240,Anton Yarosh,9,29,M,Transportation/Logistics,Denver,0
+C241,Megan Walerius,9,35,F,Entrepreneur,Denver,0
+C242,Jordan Keltner,9,30,M,Service Manager,Denver,1
+C243,Madison Maidenberg,9,28,F,UX/UI Designer,Denver,0
+C244,Joe Ferrucci,9,29,M,Sales,Denver,0
+C245,Annie Lancaster,9,31,F,Hair Salon Owner,Denver,0
+C246,Nick Amato,9,28,M,Luxury Watch Dealer,Denver,0
+C247,Kacie McIntosh,9,34,F,Hair and Makeup Artist,Denver,0
+C248,Patrick Suzuki,9,31,M,Construction Manager,Denver,0
+C249,Blake Anderson,9,34,M,Accountant,Denver,0
+C250,Brenden Guthrie,9,32,M,Finance Manager,Denver,0
+C251,Chase Navarro,9,29,M,Water Treatment Consultant,Denver,0
+C252,Dayo Ogunjimi,9,30,M,IT Advisor,Denver,0
+C253,Dylan Mustoe,9,32,M,Financial Analyst,Denver,0
+C254,Jensen Butler,9,29,M,Data Analyst,Denver,0
+C255,Logan Krantz,9,35,M,Account Executive,Denver,0
+C256,Michael Neal,9,41,M,Medical Sales,Denver,0
+C257,Mike Brockway,9,38,M,Real Estate Investor,Denver,0
+C258,Rohan Patel,9,27,M,Private Equity,Denver,0
+C259,Anastasia Lubline,9,29,F,Nurse,Denver,0
+C260,Anna Yuan,9,28,F,Hairstylist,Denver,0
+C261,Ashley Usery,9,35,F,Director of Compliance,Denver,0
+C262,Aza Weyer,9,32,F,Events Manager,Denver,0
+C263,Chyna Craig,9,39,F,Marketing Manager,Denver,0
+C264,Hilary Seale,9,39,F,Medical Device Sales,Denver,0
+C265,Kait Nemunaitis,9,33,F,Registered Dietitian,Denver,0
+C266,Kaylen Johnson,9,29,F,Account Executive,Denver,0
+C267,Megan Hutton,9,36,F,Property Manager,Denver,0
+C268,Shelby Crisman,9,35,F,Realtor,Denver,0
+C269,Christine Hamilton,10,31,F,Speech-Language Pathologist,Ohio,0
+C270,Victor St. John,10,34,M,Professor,Ohio,0
+C271,Amber Morrison,10,34,F,Nurse Practitioner,Ohio,1
+C272,Jordan Faeth,10,34,M,Account Executive,Ohio,0
+C273,Bri McNees,10,34,F,Senior Merchant,Ohio,0
+C274,Connor Spies,10,32,M,Account Management,Ohio,0
+C275,Brittany Wicker,10,33,F,Registered Nurse,Ohio,0
+C276,"Devonta ""Devo"" Anderson",10,32,M,Loan Officer,Ohio,0
+C277,Ashley Carpenter,10,34,F,Claims Manager,Ohio,0
+C278,Alex Henderson,10,31,M,Financial Sales,Ohio,0
+C279,Emma Betsinger,10,28,F,Retail Merchandising,Ohio,0
+C280,Mike Gibney,10,30,M,Sales Manager,Ohio,0
+C281,Jessica Barrett,10,39,F,Infectious Disease Physician,Ohio,0
+C282,Chris Fusco,10,33,M,Account Executive,Ohio,0
+C283,Elissa Finley,10,39,F,Nurse,Ohio,0
+C284,Miguel Lopez,10,32,M,Software Engineer,Ohio,0
+C285,Alex Lowrie,10,33,M,Assistant Controller,Ohio,0
+C286,Brennan O’Callaghan,10,30,M,Accounting and Finance Manager,Ohio,0
+C287,Haramol Gill,10,36,M,E.R. Doctor,Ohio,0
+C288,Kevan Jones,10,32,M,Realtor,Ohio,0
+C289,Kevin Verhoef,10,35,M,Certified Public Accountant,Ohio,0
+C290,Parker Knapp,10,29,M,Business Owner,Ohio,0
+C291,Steven Sunday,10,32,M,Finance,Ohio,0
+C292,Tyler Hunt,10,32,M,Management Consultant,Ohio,0
+C293,Brittany S.,10,37,F,Flight Attendant,Ohio,0
+C294,Bry Thomas,10,30,F,Commercial Real Estate Agent,Ohio,0
+C295,Dynasty Ballard,10,33,F,Senior Marketing Manager,Ohio,0
+C296,Jennifer Underwood,10,32,F,Financial Professional,Ohio,0
+C297,Keya Kellum,10,31,F,Marketing Director,Ohio,0
+C298,Priyanka Grandhi,10,34,F,Recruiter,Ohio,0
+C299,Rosalyn Ransaw,10,31,F,Marketing Manager,Ohio,0
+C300,Tyler Lanier,10,33,F,Sales Leader,Ohio,0
